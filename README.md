@@ -1,6 +1,11 @@
 We provide some rendered results of the proposed method with a moving camera in the form of a video sequence.
 ![387_0](https://github.com/user-attachments/assets/996bccef-1898-4e6f-afff-df18f484b1e5)
-![387_30](https://github.com/user-attachments/assets/ed8d3eb1-938a-46fe-865c-65d34639ab5a)
+![392](https://github.com/user-attachments/assets/8969b8be-338f-4d1f-8d4b-bcc00e4014ae)
+
+
+
+
+
 
 We provide some rendered results of the proposed method with a fixed camera in the form of a video sequence.
 
