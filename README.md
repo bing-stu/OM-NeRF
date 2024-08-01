@@ -28,3 +28,4 @@ We also provide visualization results comparison under the white background for 
 
 
 # OM-NeRF
+The OM-NeRF sources from IMMLab. IMMLab is a research group of the School of Electrical and Information Engineering, Tianjin University. We focus on the research of multimedia communication and information processing, artificial intelligence and pattern recognition, 3D computer vision and virtual reality.
